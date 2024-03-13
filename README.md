@@ -23,7 +23,7 @@ Aplicação em Angular com ajuda de **[Curso de Angular 2 (v17+) Typescript do B
 
 # Tecnologias utilizadas
 - JavaScript
-- CSS
+- SCSS
 - HTML
 - JSON 
 - Angular
